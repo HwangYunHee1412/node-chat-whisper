@@ -103,3 +103,5 @@ io.on('connection', function(socket){
 http.listen(3000, function(){ //4
   console.log('server on!');
 });
+
+// http://blog.naver.com/PostView.nhn?blogId=bbomi1458&logNo=220924033760
